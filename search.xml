@@ -8,7 +8,7 @@
       <link href="/2022/12/18/My-test-blog/"/>
       <url>/2022/12/18/My-test-blog/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.</span><br></pre></td></tr></table></figure><p>Hello, everyone!<br>This is a test blog for debug.</p>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Do not just seek happiness for yourself. </span><br><span class="line">Seek happiness for all. </span><br><span class="line">Through kindness. </span><br><span class="line">Through mercy.</span><br></pre></td></tr></table></figure><p><strong>Hello</strong>, everyone!<br>This is a test blog for debug.</p>]]></content>
       
       
       <categories>
